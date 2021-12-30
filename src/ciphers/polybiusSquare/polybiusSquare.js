@@ -6,7 +6,7 @@ import * as utils from '@/ciphers/utils'
 //
 //  Polybius Square
 //  The alphanumeric array is layed out in a 6x6 grid and each letter
-//  corresponded to it's coordinates in the gri.
+//  corresponded to it's coordinates in the grid.
 //  Example: a => 11, b => 12, c => 13 etc
 //
 // =============================================================================
